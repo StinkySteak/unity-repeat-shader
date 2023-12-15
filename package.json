@@ -1,0 +1,15 @@
+{
+  "name": "com.stinkysteak.unity-repeat-shader",
+  "version": "0.1.0",
+  "displayName": "Repeat Texture Shader",
+  "description": "Shader to create repeating texture UV",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/StinkySteak/unity-repeat-shader",
+  "changelogUrl": "https://github.com/StinkySteak/unity-repeat-shader/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/StinkySteak/unity-repeat-shader/blob/main/LICENSE",
+  "author": {
+    "name": "Stinkysteak",
+    "email": "stinkysteak@steaksoft.com",
+    "url": "https://steaksoft.net"
+  }
+}
