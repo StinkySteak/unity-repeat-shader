@@ -1,4 +1,4 @@
-### A Unity shader to make repeating texture
+### A Unity shader to make Repeat/Tileable/Seamless Texture
 
 ### Only for Built-in Pipeline!
 
